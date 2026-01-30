@@ -1,0 +1,13 @@
+.git
+node_modules/
+Express-key.pem
+.DS_Store
+.env
+.vscode/
+dist/
+npm-debug.log
+yarn-error.log
+.idea/
+coverage/
+logs/
+.gitignore
